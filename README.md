@@ -80,3 +80,7 @@ The source code is currently under review and will be uploaded at a later time.
 <img src=docs/05.png alt="" width="400">
 <br>
 <img src=docs/02.png alt="" width="400">
+<br>
+<img src=docs/11.png alt="" width="400">
+<br>
+<img src=docs/13.png alt="" width="400">
